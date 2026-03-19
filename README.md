@@ -156,9 +156,6 @@ Uses inverse volatility weighting.
 
 ## AI Assistance
 
-Used for:
-
-* Debugging
-* Syntax help
-
-All strategy decisions are original.
+Tools used: Claude 
+Used for: syntax, debugging signal state machine logic, identifying and fixing bugs in the backtesting engine, README formatting.
+All design decisions made independently: strategy choice, signal logic, risk controls, backtesting architecture, bonus challenge design, limitations assessment.
